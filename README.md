@@ -218,6 +218,7 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 424A - Squats [ [Problem](https://codeforces.com/problemset/problem/424/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/424A_Squats.py) ]  
 1339A - Filling Diamonds [ [Problem](https://codeforces.com/problemset/problem/1339/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1339A_FillingDiamonds.py) ]  
 1705B - Mark the Dust Sweeper [ [Problem](https://codeforces.com/problemset/problem/1705/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1705B_MarktheDustSweeper.py) ]  
+2200C - Specialty String [ [Problem](https://codeforces.com/problemset/problem/2200/C) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/2200C_SpecialtyString.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
