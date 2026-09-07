@@ -1,0 +1,1 @@
+print ((lambda s: len(set(s[i:]+s[:i] for i in range(len(s)))))(input()))
