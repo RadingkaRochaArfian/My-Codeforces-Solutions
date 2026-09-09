@@ -222,6 +222,8 @@ Subarray Sums II [ [Problem](https://cses.fi/problemset/task/1661) || [Solution]
 1705B - Mark the Dust Sweeper [ [Problem](https://codeforces.com/problemset/problem/1705/B) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/1705B_MarktheDustSweeper.py) ]  
 745A - Hongcow Learns the Cyclic Shift [ [Problem](https://codeforces.com/problemset/problem/745/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/745A_HongcowLearnstheCyclicShift.py) ]  
 765A - Neverending competitions [ [Problem](https://codeforces.com/problemset/problem/765/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/765A_Neverendingcompetitions.py) ]  
+133A - Neverending competitions [ [Problem](https://codeforces.com/problemset/problem/765/A) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/codeforces/133A_HQ9+
+.py) ]  
 
 ## LeetCode
 3622. Check Divisibility by Digit Sum and Product [ [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) || [Solution](https://github.com/RadingkaRochaArfian/Problem-Solving-Implementations/blob/main/leetcode/E_3622.java) ]
